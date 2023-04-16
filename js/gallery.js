@@ -68,7 +68,7 @@ galleryImage.forEach(box => {
                 {src: 'images/insta pic/SGT-80.jpg'},
                 {src: 'images/insta pic/SGT-81.jpg'},
                 {src: 'images/insta pic/SGT-82.jpg'}
-            ],
+            ]
         })
 
         box.addEventListener('click', function () {

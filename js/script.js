@@ -23,23 +23,23 @@ const roomOneDynamicGallery = lightGallery(roomOne, {
   dynamic: true,
   dynamicEl: [
       {
-        src: '../images/rooms/Room 1/Room 1.jpg',
+        src: 'images/rooms/Room 1/Room 1.jpg',
       },
       {
-        src: '../images/rooms/Room 1/SGT-14.jpg',
+        src: 'images/rooms/Room 1/SGT-14.jpg',
       },
       {
-        src: '../images/rooms/Room 1/SGT-16.jpg',
+        src: 'images/rooms/Room 1/SGT-16.jpg',
       },
       {
-        src: '../images/rooms/Room 1/SGT-17.jpg',
+        src: 'images/rooms/Room 1/SGT-17.jpg',
       },
       {
-        src: '../images/rooms/Room 1/SGT-19.jpg',
+        src: 'images/rooms/Room 1/SGT-19.jpg',
       },
       {
-        src: '../images/rooms/Room 1/SGT-20.jpg',
-      }
+        src: 'images/rooms/Room 1/SGT-20.jpg',
+  
   ],
 })
 
@@ -82,16 +82,16 @@ const seniorDynamicGallery = lightGallery(senior, {
   thumbnail: true,
   dynamicEl: [
       {
-        src: '../images/rooms/Senior/Senior.jpg',
+        src: 'images/rooms/Senior/Senior.jpg',
       },
       {
-        src: '../images/rooms/Senior/SGT-21.jpg',
+        src: 'images/rooms/Senior/SGT-21.jpg',
       },
       {
-        src: '../images/rooms/Senior/SGT-22.jpg',
+        src: 'images/rooms/Senior/SGT-22.jpg',
       },
       {
-        src: '../images/rooms/Senior/SGT-23.jpg',
+        src: 'images/rooms/Senior/SGT-23.jpg',
       }
   ],
 })
@@ -109,19 +109,19 @@ const familyDynamicGallery = lightGallery(family, {
   thumbnail: true,
   dynamicEl: [
       {
-        src: '../images/rooms/Family/Family.jpg',
+        src: 'images/rooms/Family/Family.jpg',
       },
       {
-        src: '../images/rooms/Family/SGT-28.jpg',
+        src: 'images/rooms/Family/SGT-28.jpg',
       },
       {
-        src: '../images/rooms/Family/SGT-29.jpg',
+        src: 'images/rooms/Family/SGT-29.jpg',
       },
       {
-        src: '../images/rooms/Family/SGT-30.jpg',
+        src: 'images/rooms/Family/SGT-30.jpg',
       },
       {
-        src: '../images/rooms/Family/SGT-31.jpg',
+        src: 'images/rooms/Family/SGT-31.jpg',
       }
   ],
 })
