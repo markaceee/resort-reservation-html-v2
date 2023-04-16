@@ -39,7 +39,7 @@ const roomOneDynamicGallery = lightGallery(roomOne, {
       },
       {
         src: 'images/rooms/Room 1/SGT-20.jpg',
-  
+      }
   ],
 })
 
