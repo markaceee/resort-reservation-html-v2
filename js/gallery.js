@@ -6,7 +6,7 @@ galleryImage.forEach(box => {
         const dynamicGallery = lightGallery(box, {
             dynamic: true,
             dynamicEl: [
-                {src: '../images/insta pic/SGT-06.jpg'},
+                {src: './images/insta pic/SGT-06.jpg'},
                 {src: '../images/insta pic/SGT-07.jpg'},
                 {src: '../images/insta pic/SGT-08.jpg'},
                 {src: '../images/insta pic/SGT-09.jpg'},        
